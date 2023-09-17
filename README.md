@@ -19,10 +19,22 @@ You can either create your own prefires or download prefires made by other peopl
 2. Drag and drop it into your csgo config folder
 
 #### **How do I load the prefire?**
-1. Start an offline round
+1. Start an offline round on the map of the prefire
 2. Open the console (usually with the "~" key)
 3. Type in "exec setup" to setup everything
 4. Type in "exec \<prefire>" (replace "\<prefire>" with the name of the config file. If you have it in a folder then list out the whole path)
 
 ### How to create prefires?
-![image](https://github.com/jvietman/cspc/assets/77661493/7fa314ec-40a2-4202-bbfa-e6c74e6058df)
+<img src="https://github.com/jvietman/cspc/assets/77661493/5cac0a1c-c842-41e5-8e24-55cec1f4dbd9" width="60%">
+
+1. Start an offline round on the map of the prefire
+2. Open the console (usually with the "~" key)
+3. Go to the desired position and type in "getpos" (if the bot is bugging, use the command "getpos_exact")
+4. After you done that everywhere you want to, copy the whole console log containing the positions
+5. Paste the log into the big text entry
+6. Fill out all other information
+7. Press "Build" to build the config file
+
+Here is an example of how it could look:
+
+<img src="https://github.com/jvietman/cspc/assets/77661493/4c215882-abd8-4050-ad2e-91501d0fe79c" width="50%">
