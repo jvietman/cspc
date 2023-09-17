@@ -31,7 +31,7 @@ You can either create your own prefires or download prefires made by other peopl
 2. Open the console (usually with the "~" key)
 3. Go to the desired position and type in "getpos" (if the bot is bugging, use the command "getpos_exact")
 4. After you done that everywhere you want to, copy the whole console log containing the positions
-5. Paste the log into the big text entry
+5. Paste the log into the big text entry (first "setpos" must be your spawn position!)
 6. Fill out all other information
 7. Press "Build" to build the config file
 
