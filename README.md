@@ -1,6 +1,9 @@
 # CS:PC (Counter-Strike: Prefire Creator)
 A tool for CS:GO to create custom prefires on any map.
 
+## !!! OUTDATED !!!
+I dont know if this will even work in cs2. This program was build for cs:go. Maybe some file structures changed or script dont work in cs2 like they worked in cs:go. I will check if this works on cs2 soon and maybe automate more stuff to be more user friendly.
+
 ## Some info
 Maybe I will code an installer, because it is complicated to download and setup everything.
 
